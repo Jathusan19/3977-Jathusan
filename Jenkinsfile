@@ -14,7 +14,7 @@ pipeline {
                 //     sh 'git config --global --unset https.proxy'
                 // }
                 // Clone the repository
-                git branch: 'main', url: 'https://github.com/thaya2000/3977-Thayanan.git'
+                git branch: 'main', url: 'https://github.com/Jathusan19/3977-Jathusan.git'
             }
         }
 
